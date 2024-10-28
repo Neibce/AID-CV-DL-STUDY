@@ -28,6 +28,7 @@
 ## 추가 조사
 일시|챕터|링크|발표자
 --|--|--|--
+24.10.28|Chapter3|[3.2 이미지 보호](https://handsomely-guavaberry-1b0.notion.site/protect-image-12cc95f40c5d80bc898ec17baaa5c23d?pvs=4)|홍윤아
 
 ## 질문
 [Chapter2](./question/Chapter2.md)
