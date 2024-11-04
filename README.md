@@ -24,6 +24,7 @@
 24.10.11|Chapter2|[2.2 이미지 처리 기법](https://cord-vacuum-5ac.notion.site/2-2-117f9fef1c1480b19dece0cb26fd9e14?pvs=4)|강지원
 24.10.28|Chapter3|[3.2 딥러닝을 활용한 이미지 처리](https://ivy-minute-ce7.notion.site/3-2-12d03ebeff11803ab157efe114da4d03)|김주송
 24.11.04|Chapter4|[4.1 구글넷과 레즈넷](https://cord-vacuum-5ac.notion.site/4-1-12ef9fef1c148005ba4cd280cddfcf68?pvs=4)|강지원
+24.11.04|Chapter4|[4.2 최적화된 모델 살펴보기](https://handsomely-guavaberry-1b0.notion.site/4-2-1c9edd4160cc4fccb2947249970dae52?pvs=4)|홍윤아
 
 
 ## 추가 조사
@@ -32,6 +33,7 @@
 24.10.28|Chapter3|[3.1 CNN&GAN 활용 사례](https://cord-vacuum-5ac.notion.site/12cf9fef1c1480398487e95d5b1d6cc0?pvs=4)|강지원
 24.10.28|Chapter3|[3.2 이미지 보호](https://handsomely-guavaberry-1b0.notion.site/protect-image-12cc95f40c5d80bc898ec17baaa5c23d?pvs=4)|홍윤아
 24.11.04|Chapter4|[4.1 구글넷 활용 사례](https://ivy-minute-ce7.notion.site/4-1-ad10a30f57d84480b0960ef0031f5c12?pvs=73)|김주송
+24.11.04|Chapter4|[4.2 온디바이스 모델](https://handsomely-guavaberry-1b0.notion.site/4-2-133c95f40c5d80378273d21687d102ca?pvs=4)|홍윤아
 
 
 ## 질문
