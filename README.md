@@ -39,6 +39,7 @@
 24.11.04|Chapter4|[4.1 구글넷 활용 사례](https://ivy-minute-ce7.notion.site/4-1-ad10a30f57d84480b0960ef0031f5c12?pvs=73)|김주송
 24.11.04|Chapter4|[4.2 온디바이스 모델](https://handsomely-guavaberry-1b0.notion.site/4-2-133c95f40c5d80378273d21687d102ca?pvs=4)|홍윤아
 24.11.04|Chapter4|[4.2 OpenAI's CLIP](https://github.com/openai/CLIP)|양준영
+24.11.08|Chapter4|[4.3 ViT 활용 사례](https://cord-vacuum-5ac.notion.site/4-3-136f9fef1c1480948f2ae7711b45a20b?pvs=4)|강지원
 
 
 ## 질문
