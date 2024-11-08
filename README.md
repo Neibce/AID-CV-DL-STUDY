@@ -27,6 +27,8 @@
 24.11.04|Chapter4|[4.1 구글넷과 레즈넷](https://cord-vacuum-5ac.notion.site/4-1-12ef9fef1c148005ba4cd280cddfcf68?pvs=4)|강지원
 24.11.04|Chapter4|[4.2 최적화된 모델 살펴보기](https://handsomely-guavaberry-1b0.notion.site/4-2-1c9edd4160cc4fccb2947249970dae52?pvs=4)|홍윤아
 24.11.08|Chapter4|[4.3 비전 트랜스포머](https://abiding-magazine-580.notion.site/4-3-138fd954e71980b68745ce9bf46dc777)|양준영
+24.11.08|Chapter5|[5.1 two-stage detector](https://ivy-minute-ce7.notion.site/5-1-two-stage-detector-13803ebeff11800ba3abc83e2852900d?pvs=4)|김주송
+24.11.08|Chapter5|[5.2 one-stage detector](https://ivy-minute-ce7.notion.site/5-2-one-stage-detector-13803ebeff1180b3ac66c216083eacd2?pvs=4)|김주송
 
 
 ## 추가 조사
