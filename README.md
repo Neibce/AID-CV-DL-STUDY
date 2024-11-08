@@ -40,7 +40,7 @@
 24.11.04|Chapter4|[4.2 온디바이스 모델](https://handsomely-guavaberry-1b0.notion.site/4-2-133c95f40c5d80378273d21687d102ca?pvs=4)|홍윤아
 24.11.04|Chapter4|[4.2 OpenAI's CLIP](https://github.com/openai/CLIP)|양준영
 24.11.08|Chapter4|[4.3 ViT 활용 사례](https://cord-vacuum-5ac.notion.site/4-3-136f9fef1c1480948f2ae7711b45a20b?pvs=4)|강지원
-24.11.08|Chapter5|[5.1,2 자율주행 관련]([https://handsomely-guavaberry-1b0.notion.site/4-2-133c95f40c5d80378273d21687d102ca?pvs=4](https://handsomely-guavaberry-1b0.notion.site/5-1-2-cd900d8b5b6d430e8c7220604f024249))|홍윤아
+24.11.08|Chapter5|[5.1,2 자율주행 관련](https://handsomely-guavaberry-1b0.notion.site/5-1-2-cd900d8b5b6d430e8c7220604f024249)|홍윤아
 
 
 ## 질문
