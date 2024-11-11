@@ -43,6 +43,7 @@
 24.11.04|Chapter4|[4.2 OpenAI's CLIP](https://github.com/openai/CLIP)|양준영
 24.11.08|Chapter4|[4.3 ViT 활용 사례](https://cord-vacuum-5ac.notion.site/4-3-136f9fef1c1480948f2ae7711b45a20b?pvs=4)|강지원
 24.11.08|Chapter5|[5.1,2 자율주행 관련](https://handsomely-guavaberry-1b0.notion.site/5-1-2-cd900d8b5b6d430e8c7220604f024249)|홍윤아
+24.11.11|Chapter5|[5.3 SAM과 U-Net의 활용사례](https://abiding-magazine-580.notion.site/5-3-SAM-U-Net-13bfd954e71980d88b23dace6a1aafd1?pvs=73)|양준영
 24.11.11|Chapter6|[6.1 StarGAN](https://www.notion.so/6-1-StarGAN-13b03ebeff1180af9282ef04a9b0e25f)|김주송
 
 ## 질문
