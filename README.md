@@ -31,6 +31,8 @@
 24.11.08|Chapter5|[5.2 one-stage detector](https://ivy-minute-ce7.notion.site/5-2-one-stage-detector-13803ebeff1180b3ac66c216083eacd2?pvs=4)|김주송
 24.11.11|Chapter5|[5.3 이미지 분할](https://handsomely-guavaberry-1b0.notion.site/5-3-631b855a1155467ba21ea31b488093e6?pvs=4)|홍윤아
 24.11.11|Chapter6|[6.1 이미지-이미지 변환](https://cord-vacuum-5ac.notion.site/6-1-13af9fef1c1480769a9dff9d21977d0e?pvs=4)|강지원
+24.11.18|Chapter6|[6.2 초고해상도와 스타일 제어](https://ivy-minute-ce7.notion.site/6-2-14203ebeff1180638434fa41cf3bfc4b)|김주송
+24.11.18|Chapter6|[6.3 스테이블 디퓨전](https://ivy-minute-ce7.notion.site/6-3-14203ebeff1180c59d57f2dd48b22234)|김주송
 
 
 ## 추가 조사
